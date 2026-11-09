@@ -1,7 +1,6 @@
 # Unsicherheit mitliefern: eine Schranke für die Kosten der gewählten Entscheidung – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-entscheidungs-schranke-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-entscheidungs-schranke-demo.streamlit.app/)**
 
 Stück 9 der Reihe **Entscheidungsorientiertes Lernen** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Vehikel ist das **5 × 5 Gitter** aus Stück 3 ([spo-kuerzester-weg-demo](https://github.com/sebastian-hanisch/spo-kuerzester-weg-demo): Wege von links oben nach rechts unten, 40 Bögen, 70 Wege): Ein lineares Modell (Kleinste Quadrate, KQ) sagt die Bogenkosten voraus, ein exakter Löser wählt daraus den kürzesten Weg. Die Demo trainiert dabei nichts Neues. Sie fragt, was man zu der gewählten Entscheidung **mitliefern** kann: eine obere **Schranke für die tatsächlichen Kosten dieses Weges**, die ihr Niveau (hier 90 %) im Mittel über Kalibrierungen hält.
 
